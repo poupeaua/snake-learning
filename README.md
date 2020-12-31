@@ -7,5 +7,5 @@ In this version repo we explore only two methods :
 
 Here is a gif of a fast training (less than 5 minutes !) with Q-Learning :
 
-![Q-Learning + Experience Replay + Focus on Dying Experience](demo/qtable-snake-length28.gif)
+![Q-Learning + Experience Replay + Focus on Dying Experience](demo/qtable-snake-length28-resized.gif)
 
